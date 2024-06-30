@@ -1,0 +1,16 @@
+form > label{
+    display: block;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#category, #group{
+    padding: 5px;
+    font-weight: bolder;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+body{
+    text-align: center;
+}
